@@ -10,4 +10,4 @@ Bottolo Ricci, Nazarena - Legajo: 182892 - Mail: nazarenabottolo6@hotmail.com
 
 Bolff, Bruno - Legajo: 182887 - Mail: brunobolff02@gmail.com
 
-Daddario, Agustin - Legajo: 196658 - Mail: agustindaddario@gmail.com
+Daddario, Agustin - Legajo: 196658 - Mail: agustinndaddario@gmail.com
