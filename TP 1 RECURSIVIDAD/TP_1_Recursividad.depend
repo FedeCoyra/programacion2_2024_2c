@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1725306386 source:c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 1 - recursividad\tp_1_recursividad\ejercicio10.c
+	<conio.h>
+	<stdio.h>
+	<stdbool.h>
+	<errno.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"TP1_Recursividad.h"
+
+1725313857 source:c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 1 - recursividad\tp_1_recursividad\ejercicio2.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<errno.h>
+	"TP1_Recursividad.h"
+
+1725291165 source:c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 1 - recursividad\tp_1_recursividad\ejercicio3.c
+
+1725291213 source:c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 1 - recursividad\tp_1_recursividad\ejercicio4.c
+
+1725303198 source:c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 1 - recursividad\tp_1_recursividad\ejercicio5.c
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+	<ctype.h>
+	"TP1_Recursividad.h"
+
+1725291249 source:c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 1 - recursividad\tp_1_recursividad\ejercicio6.c
+
+1725291262 source:c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 1 - recursividad\tp_1_recursividad\ejercicio7.c
+
+1725312506 source:c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 1 - recursividad\tp_1_recursividad\ejercicio8.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<errno.h>
+	"TP1_Recursividad.h"
+
+1725305273 source:c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 1 - recursividad\tp_1_recursividad\ejercicio9.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<errno.h>
+	"TP1_Recursividad.h"
+
+1725312368 c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 1 - recursividad\tp_1_recursividad\tp1_recursividad.h
+	<stdbool.h>
+
+1725293017 source:c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 1 - recursividad\tp_1_recursividad\ejercicio1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	"TP1_Recursividad.h"
+
