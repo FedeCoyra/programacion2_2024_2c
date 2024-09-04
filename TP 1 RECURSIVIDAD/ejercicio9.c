@@ -58,6 +58,6 @@ void main(){
     if (divisiblePor7(n)) {
         printf("El numero %d es divisible por 7", n);
     } else {
-        printf("El numero %d NO es divisible por por 7", n);
+        printf("El numero %d NO es divisible por 7", n);
     }
 }
