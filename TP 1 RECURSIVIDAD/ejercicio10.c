@@ -92,13 +92,13 @@ int contarElementos(int *array) {
 }
 
 int main() {
-    printf("Ingreso del numero explosivo positivo (min: 1 - max: %d). ", TAM_MAX);
+    printf("Ingreso del numero explosivo positivo (min: 1 - max: %d): ", TAM_MAX);
     int numeroExplosivo = leer_entero_positivo_sin_cero();
     while (numeroExplosivo > TAM_MAX) {
-        printf("Numero explosivo fuera de rango (min: 1 - max: %d). ", TAM_MAX);
+        printf("Numero explosivo fuera de rango (min: 1 - max: %d): ", TAM_MAX);
         numeroExplosivo = leer_entero_positivo_sin_cero();
     }
-    printf("Ingreso del numero bomba. ");
+    printf("Ingreso del numero bomba: ");
     int numeroBomba = leer_entero_positivo_sin_cero();
     // valido que no numero bomba sea mayor o igual que numero explosivo
     while (numeroBomba >= numeroExplosivo) {
@@ -106,9 +106,9 @@ int main() {
         printf("--------------------");
         printf("\n");
         printf("El numero bomba no puede ser mayor o igual al numero explosivo.\n");
-        printf("Ingreso del numero explosivo positivo (min: 1 - max: %d). ", TAM_MAX);
+        printf("Ingreso del numero explosivo positivo (min: 1 - max: %d): ", TAM_MAX);
         numeroExplosivo = leer_entero_positivo_sin_cero();
-        printf("Ingreso del numero bomba. ");
+        printf("Ingreso del numero bomba: ");
         numeroBomba = leer_entero_positivo_sin_cero();
     }
 
