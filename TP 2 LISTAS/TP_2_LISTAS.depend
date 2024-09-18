@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1726692273 source:c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 2 - listas\tp_2_listas\listas_arreglos.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+	"tipo_elemento.h"
+
+1725903962 c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 2 - listas\tp_2_listas\listas.h
+	<stdbool.h>
+	"tipo_elemento.h"
+
+1725904001 c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 2 - listas\tp_2_listas\tipo_elemento.h
+
+1726696998 source:c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 2 - listas\tp_2_listas\ejercicio2.c
+	"listas.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<errno.h>
+
+1725904259 c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 2 - listas\tp_2_listas\tipo_elemento.c
+	"tipo_elemento.h"
+	<stdlib.h>
+
+1725904131 c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 2 - listas\tp_2_listas\listas_arreglos.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+	"tipo_elemento.h"
+
+1725904259 source:c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 2 - listas\tp_2_listas\tipo_elemento.c
+	"tipo_elemento.h"
+	<stdlib.h>
+
+1726688852 source:c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 2 - listas\tp_2_listas\listas_punteros.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+
+1726686131 source:c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 2 - listas\tp_2_listas\ejercicio5.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	"listas.h"
+
+1726686690 source:c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 2 - listas\tp_2_listas\ejercicio6.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<errno.h>
+	<math.h>
+	<ctype.h>
+	"listas.h"
+
+1726682227 source:c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 2 - listas\tp_2_listas\ejercicio3.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<errno.h>
+	<ctype.h>
+	"listas.h"
+
+1726692222 source:c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 2 - listas\tp_2_listas\ejercicio4.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<errno.h>
+	<math.h>
+	<ctype.h>
+	"listas.h"
+
+1726687220 source:c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 2 - listas\tp_2_listas\listas_cursores.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+
