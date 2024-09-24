@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 3 - pilas\tp_3_pilas\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1726084303 source:c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 3 - pilas\tp_3_pilas\pilas_arreglos.c
+	"pilas.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1726084257 c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 3 - pilas\tp_3_pilas\pilas.h
+	<stdbool.h>
+	"tipo_elemento.h"
+
+1726084209 c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 3 - pilas\tp_3_pilas\tipo_elemento.h
+
+1726084162 source:c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 3 - pilas\tp_3_pilas\tipo_elemento.c
+	"tipo_elemento.h"
+	<stdlib.h>
+
+1727201688 source:c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 3 - pilas\tp_3_pilas\ejercicio2.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<errno.h>
+	"pilas.h"
+
+1727126590 source:c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 3 - pilas\tp_3_pilas\ejercicio3.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<errno.h>
+	"pilas.h"
+
+1727128500 source:c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 3 - pilas\tp_3_pilas\ejercicio5.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<errno.h>
+	"pilas.h"
+
+1727203234 source:c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 3 - pilas\tp_3_pilas\ejercicio6.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<errno.h>
+	<time.h>
+	"pilas.h"
+
+1727126946 source:c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 3 - pilas\tp_3_pilas\ejercicio7.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<errno.h>
+	"pilas.h"
+
+1727203661 source:c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 3 - pilas\tp_3_pilas\ejercicio8.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<errno.h>
+	"pilas.h"
+
+1726084229 source:c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 3 - pilas\tp_3_pilas\pilas_punteros.c
+	"pilas.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1727127873 source:c:\users\fede\desktop\fede\programacion 2 - 2024 - 2do c\tp 3 - pilas\tp_3_pilas\ejercicio4.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<errno.h>
+	"pilas.h"
+
