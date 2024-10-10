@@ -1,0 +1,120 @@
+# depslib dependency file v1.0
+1727886384 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 4 -colas\tp_4_colas\colas_arreglos.c
+	"colas.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1727886346 c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 4 -colas\tp_4_colas\colas.h
+	<stdbool.h>
+	"tipo_elemento.h"
+
+1727886287 c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 4 -colas\tp_4_colas\tipo_elemento.h
+
+1727889561 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 4 -colas\tp_4_colas\tipo_elemento.c
+	"tipo_elemento.h"
+	<stdlib.h>
+
+1727886456 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 4 -colas\tp_4_colas\colas_arreglos_circular.c
+	"colas.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1727905786 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 4 -colas\tp_4_colas\ejercicio2.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<errno.h>
+	"colas.h"
+	"pilas.h"
+
+1727904669 c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 4 -colas\tp_4_colas\pilas.h
+	<stdbool.h>
+	"tipo_elemento.h"
+
+1727904832 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 4 -colas\tp_4_colas\pilas_arreglos.c
+	"pilas.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1727905979 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 4 -colas\tp_4_colas\ejercicio4.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<errno.h>
+	"colas.h"
+
+1728581618 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 4 -colas\tp_4_colas\ejercicio5.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<errno.h>
+	"colas.h"
+
+1728069806 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 4 -colas\tp_4_colas\ejercicio6.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<errno.h>
+	"colas.h"
+	"pilas.h"
+	"listas.h"
+
+1727904698 c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 4 -colas\tp_4_colas\listas.h
+	<stdbool.h>
+	"tipo_elemento.h"
+
+1727904811 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 4 -colas\tp_4_colas\listas_cursores.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+
+1728579697 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 4 -colas\tp_4_colas\ejercicio7.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<errno.h>
+	"colas.h"
+
+1727905905 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 4 -colas\tp_4_colas\ejercicio3.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<errno.h>
+	"colas.h"
+
+1727886419 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 4 -colas\tp_4_colas\colas_punteros.c
+	"colas.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1728582796 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 4 -colas\tp_4_colas\pilas_punteros.c
+	"pilas.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1727904821 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 4 -colas\tp_4_colas\listas_punteros.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+
+1727904804 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 4 -colas\tp_4_colas\listas_arreglos.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+
