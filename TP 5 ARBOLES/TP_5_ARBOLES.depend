@@ -1,0 +1,185 @@
+# depslib dependency file v1.0
+1729120765 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 5 - arboles\tp_5_arboles\arbol-binario.c
+	<stdlib.h>
+	<string.h>
+	"arbol-binario.h"
+	"colas.h"
+	"nodo.h"
+
+1730143874 c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 5 - arboles\tp_5_arboles\arbol-binario.h
+	<stdbool.h>
+	"nodo.h"
+	"tipo_elemento.h"
+
+1729120757 c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 5 - arboles\tp_5_arboles\nodo.h
+	"tipo_elemento.h"
+
+1729119999 c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 5 - arboles\tp_5_arboles\tipo_elemento.h
+
+1729120380 c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 5 - arboles\tp_5_arboles\colas.h
+	<stdbool.h>
+	"tipo_elemento.h"
+
+1729120513 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 5 - arboles\tp_5_arboles\colas_punteros.c
+	"colas.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1729131428 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 5 - arboles\tp_5_arboles\ejercicio2.c
+	<errno.h>
+	<ctype.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol-binario.h"
+	"tipo_elemento.h"
+	"nodo.h"
+	"listas.h"
+	"pilas.h"
+
+1729120208 c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 5 - arboles\tp_5_arboles\listas.h
+	<stdbool.h>
+	"tipo_elemento.h"
+
+1729120056 c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 5 - arboles\tp_5_arboles\pilas.h
+	<stdbool.h>
+	"tipo_elemento.h"
+
+1729120271 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 5 - arboles\tp_5_arboles\listas_cursores.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+
+1729119849 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 5 - arboles\tp_5_arboles\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	".\nodo.h"
+
+1729120131 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 5 - arboles\tp_5_arboles\pilas_arreglos.c
+	"pilas.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1729119968 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 5 - arboles\tp_5_arboles\tipo_elemento.c
+	"tipo_elemento.h"
+	<stdlib.h>
+
+1729131459 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 5 - arboles\tp_5_arboles\ejercicio4.c
+	<errno.h>
+	<ctype.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol-binario.h"
+	"tipo_elemento.h"
+	"nodo.h"
+	"listas.h"
+	"colas.h"
+	"pilas.h"
+
+1730142715 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 5 - arboles\tp_5_arboles\ejercicio8.c
+	<errno.h>
+	<ctype.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol-binario.h"
+	"tipo_elemento.h"
+	"nodo.h"
+	"listas.h"
+	"colas.h"
+	"pilas.h"
+
+1729135665 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 5 - arboles\tp_5_arboles\arbol-avl.c
+	"nodo.h"
+	"arbol-avl.h"
+
+1729136532 c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 5 - arboles\tp_5_arboles\arbol-avl.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+
+1729131687 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 5 - arboles\tp_5_arboles\arbol-binario-busqueda.c
+	"arbol-binario-busqueda.h"
+	"nodo.h"
+
+1730143899 c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 5 - arboles\tp_5_arboles\arbol-binario-busqueda.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+	"tipo_elemento.h"
+
+1729120409 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 5 - arboles\tp_5_arboles\colas_arreglos.c
+	"colas.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1730143468 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 5 - arboles\tp_5_arboles\ejercicio9.c
+	<errno.h>
+	<ctype.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol-binario.h"
+	"tipo_elemento.h"
+	"nodo.h"
+	"listas.h"
+	"colas.h"
+	"pilas.h"
+	"arbol-avl.h"
+
+1729131929 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 5 - arboles\tp_5_arboles\ejercicio10.c
+	<errno.h>
+	<ctype.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"arbol-binario.h"
+	"tipo_elemento.h"
+	"nodo.h"
+	"listas.h"
+	"colas.h"
+	"pilas.h"
+	"arbol-avl.h"
+	"arbol-binario-busqueda.h"
+
+1729131445 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 5 - arboles\tp_5_arboles\ejercicio3.c
+	<errno.h>
+	<ctype.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol-binario.h"
+	"tipo_elemento.h"
+	"nodo.h"
+	"listas.h"
+	"pilas.h"
+
+1729131475 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 5 - arboles\tp_5_arboles\ejercicio7.c
+	<errno.h>
+	<ctype.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol-binario.h"
+	"tipo_elemento.h"
+	"nodo.h"
+	"listas.h"
+	"pilas.h"
+
