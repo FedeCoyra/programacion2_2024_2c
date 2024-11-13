@@ -1,0 +1,157 @@
+# depslib dependency file v1.0
+1730923294 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 6 - hash\tp_6_hash\arbol-avl.c
+	"nodo.h"
+	"arbol-avl.h"
+
+1730923069 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 6 - hash\tp_6_hash\arbol-binario.c
+	<stdlib.h>
+	<string.h>
+	"arbol-binario.h"
+	"colas.h"
+	"nodo.h"
+
+1730922516 c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 6 - hash\tp_6_hash\arbol-binario.h
+	<stdbool.h>
+	"nodo.h"
+	"tipo_elemento.h"
+
+1730922826 c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 6 - hash\tp_6_hash\nodo.h
+	"tipo_elemento.h"
+
+1730923120 c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 6 - hash\tp_6_hash\tipo_elemento.h
+
+1730922526 c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 6 - hash\tp_6_hash\colas.h
+	<stdbool.h>
+	"tipo_elemento.h"
+
+1730922536 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 6 - hash\tp_6_hash\colas_arreglos.c
+	"colas.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1730922620 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 6 - hash\tp_6_hash\ejercicio4.c
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"listas.h"
+	"tabla_hash.h"
+	"tipo_elemento.h"
+
+1730922726 c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 6 - hash\tp_6_hash\listas.h
+	<stdbool.h>
+	"tipo_elemento.h"
+
+1730923173 c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 6 - hash\tp_6_hash\tabla_hash.h
+	"tipo_elemento.h"
+	<stdbool.h>
+
+1730922757 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 6 - hash\tp_6_hash\listas_cursores.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+
+1730922805 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 6 - hash\tp_6_hash\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+
+1730922861 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 6 - hash\tp_6_hash\pilas_arreglos.c
+	"pilas.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1730922848 c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 6 - hash\tp_6_hash\pilas.h
+	<stdbool.h>
+	"tipo_elemento.h"
+
+1730922904 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 6 - hash\tp_6_hash\tabla_hash_lista_colisiones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"tabla_hash.h"
+	"listas.h"
+
+1730922942 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 6 - hash\tp_6_hash\tipo_elemento.c
+	"tipo_elemento.h"
+	<stdlib.h>
+
+1730922704 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 6 - hash\tp_6_hash\ejercicio5.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	<math.h>
+	"tabla_hash.h"
+	"arbol-avl.h"
+	"listas.h"
+	"tipo_elemento.h"
+	"nodo.h"
+
+1730922459 c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 6 - hash\tp_6_hash\arbol-avl.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+
+1731528050 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 6 - hash\tp_6_hash\ejercicio6.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	<math.h>
+	"tabla_hash.h"
+	"arbol-avl.h"
+	"listas.h"
+	"tipo_elemento.h"
+	"nodo.h"
+
+1730922915 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 6 - hash\tp_6_hash\tabla_hash_zona_overflow.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"tabla_hash.h"
+	"listas.h"
+
+1731528561 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 6 - hash\tp_6_hash\main_tablahash.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"tabla_hash.h"
+
+1730922473 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 6 - hash\tp_6_hash\arbol-binario-busqueda.c
+	"arbol-binario-busqueda.h"
+	"nodo.h"
+
+1730922485 c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 6 - hash\tp_6_hash\arbol-binario-busqueda.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+	"tipo_elemento.h"
+
+1730922565 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 6 - hash\tp_6_hash\colas_punteros.c
+	"colas.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1730922769 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp 6 - hash\tp_6_hash\listas_punteros.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+
