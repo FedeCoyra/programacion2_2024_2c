@@ -1,6 +1,6 @@
-#Trabajo Practico 6 - Hash
+#Trabajo Practico 7 - Conjuntos
 
-#Fecha de entrega: 14/11/2024
+#Fecha de entrega: 21/11/2024
 
 Repositorio para entregas de Trabajos Practicos de Programacion 2
 
