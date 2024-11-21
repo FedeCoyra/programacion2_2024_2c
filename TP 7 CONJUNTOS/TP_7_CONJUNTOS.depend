@@ -1,0 +1,162 @@
+# depslib dependency file v1.0
+1732145803 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp_7_conjuntos\arbol-avl.c
+	"nodo.h"
+	"arbol-avl.h"
+
+1732146117 c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp_7_conjuntos\nodo.h
+	"tipo_elemento.h"
+
+1732146078 c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp_7_conjuntos\tipo_elemento.h
+
+1732145820 c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp_7_conjuntos\arbol-avl.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+
+1732145531 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp_7_conjuntos\conjuntos_listas.c
+	"conjuntos.h"
+	"listas.h"
+	<stdlib.h>
+
+1732145447 c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp_7_conjuntos\conjuntos.h
+	<stdbool.h>
+	"tipo_elemento.h"
+
+1732145909 c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp_7_conjuntos\listas.h
+	<stdbool.h>
+	"tipo_elemento.h"
+
+1732146314 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp_7_conjuntos\ejercicio2.c
+	<time.h>
+	<math.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<errno.h>
+	"conjuntos.h"
+	"listas.h"
+	"tipo_elemento.h"
+	"arbol-avl.h"
+	"nodo.h"
+
+1732145853 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp_7_conjuntos\listas_arreglos.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+
+1732146110 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp_7_conjuntos\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+
+1732146050 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp_7_conjuntos\tipo_elemento.c
+	"tipo_elemento.h"
+	<stdlib.h>
+
+1732146448 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp_7_conjuntos\ejercicio3.c
+	<time.h>
+	<math.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<errno.h>
+	"conjuntos.h"
+	"listas.h"
+	"tipo_elemento.h"
+	"arbol-avl.h"
+	"nodo.h"
+
+1732146453 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp_7_conjuntos\ejercicio4.c
+	<time.h>
+	<math.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<errno.h>
+	"conjuntos.h"
+	"listas.h"
+	"tipo_elemento.h"
+	"arbol-avl.h"
+	"nodo.h"
+
+1732146458 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp_7_conjuntos\ejercicio5.c
+	<time.h>
+	<math.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<errno.h>
+	"conjuntos.h"
+	"listas.h"
+	"tipo_elemento.h"
+	"arbol-avl.h"
+	"nodo.h"
+
+1732148252 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp_7_conjuntos\ejercicio6.c
+	<time.h>
+	<math.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<errno.h>
+	"conjuntos.h"
+	"listas.h"
+	"tipo_elemento.h"
+	"arbol-avl.h"
+	"nodo.h"
+
+1732145501 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp_7_conjuntos\conjuntos_avl.c
+	"conjuntos.h"
+	"arbol-avl.h"
+	"listas.h"
+	<stdlib.h>
+	"nodo.h"
+
+1732146469 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp_7_conjuntos\ejercicio7.c
+	<time.h>
+	<math.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<errno.h>
+	"conjuntos.h"
+	"listas.h"
+	"tipo_elemento.h"
+	"arbol-avl.h"
+	"nodo.h"
+
+1732146474 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp_7_conjuntos\ejercicio8.c
+	<time.h>
+	<math.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<errno.h>
+	"conjuntos.h"
+	"listas.h"
+	"tipo_elemento.h"
+	"arbol-avl.h"
+	"nodo.h"
+
+1732145870 source:c:\users\lucfe\onedrive\desktop\fede\programacion 2 - 2024\tp_7_conjuntos\listas_punteros.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+
